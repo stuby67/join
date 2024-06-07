@@ -1,0 +1,1 @@
+this is a streamlit file that take user input in english and convert the natural language into the sql database queries and access the database and fetch the query results to show on the main page of the website. This is built in python and uses gemini api key to fetch the result of conversion in SQL format
